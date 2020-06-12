@@ -17,7 +17,7 @@ a {
 
 .Hero {
   height: 920px;
-  background: url('../images/wallpaper.jpg');
+  background: url('../images/landing.jpg');
   background-size: cover;
   background-position: center;
   position: relative;

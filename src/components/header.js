@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import './Header.css'
-import logo from '../images/starboy.svg'
+import logo from '../images/space-ship.svg'
 
 class Header extends React.Component {
   constructor(props) {
@@ -36,9 +36,6 @@ class Header extends React.Component {
           <Link to="/About">About</Link>
           <Link to="/covers">Covers</Link>
           <Link to="/projects">Projects</Link>
-          <Link to="/buy">
-            <button>Buy</button>
-          </Link>
         </div>
       </div>
     )

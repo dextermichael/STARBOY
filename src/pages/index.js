@@ -33,7 +33,7 @@ const IndexPage = () => (
     <div className="Hero">
       <div className="HeroGroup">
         <h1>
-          Welcome to <br /> STAR BOY!!
+          Welcome to <br /> THE STAR BOY BLOG
         </h1>
         <p>Follow our journey</p>
         <p>As we build something great!</p>
@@ -42,18 +42,19 @@ const IndexPage = () => (
       </div>
     </div>
     <div className="Cards">
-      <h2>More coming</h2>
+      <h2>Blog Post</h2>
       <div className="CardGroup">
-        <Card title="Starting" image={require('../images/wallpaper8.jpg')} />
-        <Card
-          title="Making a plan"
-          image={require('../images/wallpaper7.jpg')}
-        />
-        <Card title="Creating" image={require('../images/wallpaper6.jpg')} />
+        <Link to="/GettingStarted">
+          {' '}
+          <Card
+            title=" Getting Started"
+            image={require('../images/wallpaper8.jpg')}
+          />
+        </Link>
       </div>
     </div>
     <Section
-      image={require('../images/wallpaper2.jpg')}
+      image={require('../images/wallpaper10.jpg')}
       logo={require('../images/logo-figma.png')}
       title="React for Designers"
       text="mind to it"
