@@ -55,9 +55,9 @@ const IndexPage = () => (
     </div>
     <Section
       image={require('../images/wallpaper10.jpg')}
-      logo={require('../images/logo-figma.png')}
-      title="React for Designers"
-      text="mind to it"
+      logo={require('')}
+      title=""
+      text=""
     />
 
     <SectionCaption> Hobbies</SectionCaption>
