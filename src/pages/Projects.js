@@ -8,11 +8,10 @@ const Projects = () => (
     <div className="Hero">
       <div className="HeroGroup">
         <h1>Projects</h1>
-        <p>Follow our journey</p>
-        <p>As we build something great!</p>
+        <p>Learning is a journey</p>
 
         <Card
-          title=" Getting Started"
+          title=" Music during the Quaratine"
           image={require('../images/wallpaper8.jpg')}
         />
 

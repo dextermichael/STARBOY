@@ -6,9 +6,11 @@ const GettingStarted = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Projects</h1>
-        <p>Follow our journey</p>
-        <p>As we build something great!</p>
+        <h1> Getting Started</h1>
+        <p>
+          You are who are right now and the person who can change you.
+          <br />
+        </p>
 
         <Wave />
       </div>
