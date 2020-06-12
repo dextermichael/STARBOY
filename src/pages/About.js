@@ -11,8 +11,8 @@ const About = () => (
         </h1>
         <p>Hello! My Name is Dexter and I love to learn new things!</p>
         <p>
-          A musician turned programmer, I'm currently loving my journey to
-          becoming a Software Developer
+          A musician turned programmer, Currently loving my journey to becoming
+          a great Web Developer!
         </p>
         <p></p>
 

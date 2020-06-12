@@ -8,8 +8,10 @@ const GettingStarted = () => (
       <div className="HeroGroup">
         <h1> Getting Started</h1>
         <p>
-          You are who are right now and the person who can change you.
+          At any moomemnt you change who you are!
           <br />
+          This is my first blog post of 2020! I plan to share with my
+          development as developer, musician and human.
         </p>
 
         <Wave />

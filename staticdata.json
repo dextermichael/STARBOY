@@ -1,20 +1,16 @@
 {
   "cells": [
     {
-      "title": "Astrophotography",
-      "image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+      "title": "Astrophotography"
     },
     {
-      "title": "AR/VR",
-      "image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+      "title": "AR/VR"
     },
     {
-      "title": "Music",
-      "image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+      "title": "Music"
     },
     {
-      "title": "Video Games",
-      "image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+      "title": "Video Games"
     }
   ]
 }
