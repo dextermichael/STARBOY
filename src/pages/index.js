@@ -33,7 +33,7 @@ const IndexPage = () => (
     <div className="Hero">
       <div className="HeroGroup">
         <h1>
-          Welcome to <br /> THE STAR BOY BLOG
+          Welcome to <br /> STAR BOY
         </h1>
         <p>Follow our journey</p>
         <p>As we build something great!</p>
@@ -55,9 +55,9 @@ const IndexPage = () => (
     </div>
     <Section
       image={require('../images/wallpaper10.jpg')}
-      logo={require('')}
-      title=""
-      text=""
+      logo={require('../images/starboy.png')}
+      title="Follow"
+      text="mind to it"
     />
 
     <SectionCaption> Hobbies</SectionCaption>
