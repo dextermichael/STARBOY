@@ -51,12 +51,7 @@ const IndexPage = () => (
         </Link>
       </div>
     </div>
-    <Section
-      image={require('../images/wallpaper10.jpg')}
-      logo={require('../images/starboy.png')}
-      title="Follow"
-      text="mind to it"
-    />
+    <Section image={require('../images/wallpaper10.jpg')} />
 
     <SectionCaption> Hobbies</SectionCaption>
     <SectionCellGroup>

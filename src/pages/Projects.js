@@ -10,10 +10,12 @@ const Projects = () => (
         <h1>Projects</h1>
         <p>Learning is a journey</p>
 
-        <Card
-          title=" Music during the Quaratine"
-          image={require('../images/wallpaper9.jpg')}
-        />
+        <div className="CardGroup">
+          <Card
+            title=" Music during the Quaratine"
+            image={require('../images/wallpaper9.jpg')}
+          />
+        </div>
 
         <Wave />
       </div>
