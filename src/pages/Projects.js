@@ -12,7 +12,7 @@ const Projects = () => (
 
         <Card
           title=" Music during the Quaratine"
-          image={require('../images/wallpaper8.jpg')}
+          image={require('../images/wallpaper9.jpg')}
         />
 
         <Wave />

@@ -4,11 +4,8 @@ import './Header.css'
 import logo from '../images/space-ship.svg'
 
 class Header extends React.Component {
-  constructor(props) {
-    super(props)
-    this.state = {
-      hasScrolled: false,
-    }
+  state = {
+    hasScrolled: false,
   }
 
   componentDidMount() {
@@ -24,6 +21,7 @@ class Header extends React.Component {
       this.setState({ hasScrolled: false })
     }
   }
+
   render() {
     return (
       <div
