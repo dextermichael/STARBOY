@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Wave from '../components/Wave'
+import Card from '../components/Card'
 
 const Projects = () => (
   <div>
@@ -10,10 +11,14 @@ const Projects = () => (
         <p>Follow our journey</p>
         <p>As we build something great!</p>
 
+        <Card
+          title=" Getting Started"
+          image={require('../images/wallpaper8.jpg')}
+        />
+
         <Wave />
       </div>
     </div>
-    <Link to="/">Go back to the homepage</Link>
   </div>
 )
 

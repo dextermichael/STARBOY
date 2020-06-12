@@ -13,7 +13,6 @@ const GettingStarted = () => (
         <Wave />
       </div>
     </div>
-    <Link to="/">Go back to the homepage</Link>
   </div>
 )
 

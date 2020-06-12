@@ -6,7 +6,7 @@ const Covers = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Coming</h1>
+        <h1>COMING SOON</h1>
         <p>
           Each Blog post Will have different comic book cover of that specific
           adventure!
@@ -15,7 +15,6 @@ const Covers = () => (
         <Wave />
       </div>
     </div>
-    <Link to="/">Go back to the homepage</Link>
   </div>
 )
 
