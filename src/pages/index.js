@@ -52,6 +52,14 @@ const IndexPage = () => (
       </div>
     </div>
     <Section image={require('../images/wallpaper10.jpg')} />
+
+    <SectionCaption> Hobbies</SectionCaption>
+    <SectionCellGroup>
+      {' '}
+      {staticdata.cells.map((cell) => (
+        <Cell title={cell.title} image={cell.image} />
+      ))}
+    </SectionCellGroup>
   </div>
 )
 
